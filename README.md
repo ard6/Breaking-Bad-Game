@@ -3,7 +3,7 @@ Comp 302 Software Engineering - Term Project (team Monopoly)
 
 # Team Members:
 
-Arda Duman- [@ard6]
+Arda Duman- [@ard6](https://github.com/ard6)
 
 Arjin Renas Akgül-
 
