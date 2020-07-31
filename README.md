@@ -5,7 +5,7 @@ Comp 302 Software Engineering - Term Project (team Monopoly)
 
 Arda Duman- [@ard6](https://github.com/ard6)
 
-Arjin Renas Akgül- [@arjinakgul] (https://github.com/arjinakgul)
+Arjin Renas Akgül- [@arjinakgul](https://github.com/arjinakgul)
 
 Doğacan Özil-
 
