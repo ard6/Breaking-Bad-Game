@@ -11,6 +11,6 @@ Doğacan Özil-
 
 Elhan Oğuz-
 
-Cansu Doğanay-
+Cansu Doğanay- [@cansudoganay](https://github.com/cansudoganay)
 
 Taluhan Öneş-
