@@ -9,7 +9,8 @@ Arjin Renas Akgül- [@arjinakgul](https://github.com/arjinakgul)
 
 Doğacan Özil-
 
-Elhan Oğuz-
+Elhan Oğuz-[@elhanoguzz](https://github.com/elhanoguzz)
+
 
 Cansu Doğanay- [@cansudoganay](https://github.com/cansudoganay)
 
